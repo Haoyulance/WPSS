@@ -77,3 +77,4 @@ with tf.device('/gpu:%s'%FLAGS.gpu):
         final[map_1 <= map_0] = 0
         final = nib.Nifti1Image(final, affine)
         nib.save(final, os.path.join(FLAGS.dataset, sub_name, 'pvs_seg_%s.nii.gz'% sub_name))
+        print('Finished PVS segmentation for subject %s'% sub_name)
