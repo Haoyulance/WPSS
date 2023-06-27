@@ -6,7 +6,7 @@ import nibabel as nib
 import copy
 from network.model import model
 from frangi.hessian import *
-from utils import dsc, FP
+from network.utils import dsc, FP
 
 config = tf.ConfigProto()
 config.gpu_options.allow_growth = True
