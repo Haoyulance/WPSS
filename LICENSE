@@ -1,0 +1,31 @@
+Software Copyright License for non-commercial scientific research purposes
+
+Copyright (c) 2023 University of Southern California.
+
+Please read carefully the following terms and conditions and any accompanying documentation before you download and/or use this software and associated documentation files (the "Software").
+
+The authors hereby grant you a non-exclusive, non-transferable, free of charge right to copy, modify, merge, publish, distribute, and sublicense the Software for the sole purpose of performing non-commercial scientific research, non-commercial education, or non-commercial artistic projects.
+
+Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, or production of other artefacts for commercial purposes.
+
+The Software may not be used for pornographic purposes or to generate pornographic material whether commercial or not. This license also prohibits the use of the Software to train methods/algorithms/neural networks/etc. for commercial use of any kind. By downloading the Software, you agree not to reverse engineer it.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+You understand and agree that the authors are under no obligation to provide either maintenance services, update services, notices of latent defects, or corrections of defects with regard to the Software. The authors nevertheless reserve the right to update, modify, or discontinue the Software at any time.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. By using the Software, you agree to cite the following paper:
+
+@article{lan2023weakly,
+  title={Weakly supervised perivascular spaces segmentation with salient guidance of Frangi filter},
+  author={Lan, Haoyu and Lynch, Kirsten M and Custer, Rachel and Shih, Nien-Chu and Sherlock, Patrick and Toga, Arthur W and Sepehrband, Farshid and Choupan, Jeiran},
+  journal={Magnetic Resonance in Medicine},
+  volume={89},
+  number={6},
+  pages={2419--2431},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+
+Data and Other Dependencies linked to this project
+The data and other dependencies linked to this project are under their own license terms which can be found on their respective webpages. The data and other dependencies linked to this projects are not covered by this license.
