@@ -6,6 +6,7 @@
 The project repository for *Weakly supervised perivascular spaces segmentation with salient guidance of Frangi filter* (WPSS). WPSS is a weakly supervised convolutional neural network model which focuses on segmenting perivascular spaces (PVS) in the white matter regions. 
 
 ## Acknowledgement
+If you use WPSS code, please cite the following paper:
 
 [**Weakly upervised Perivascular Spaces Segmentation with salient guidance of Frangi filter**<br>](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29593)
 *Haoyu Lan, Kirsten M. Lynch, Rachel Custer, Nien‐Chu Shih, Patrick Sherlock, Arthur W. Toga, Farshid Sepehrband, Jeiran Choupan*
