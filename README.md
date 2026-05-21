@@ -8,7 +8,7 @@ The project repository for *Weakly supervised perivascular spaces segmentation w
 ## Acknowledgement
 If you use WPSS code, please cite the following paper:
 
-[**Weakly upervised Perivascular Spaces Segmentation with salient guidance of Frangi filter**<br>](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29593)
+[**Weakly supervised Perivascular Spaces Segmentation with salient guidance of Frangi filter**<br>](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29593)
 *Haoyu Lan, Kirsten M. Lynch, Rachel Custer, Nien‐Chu Shih, Patrick Sherlock, Arthur W. Toga, Farshid Sepehrband, Jeiran Choupan*
 
 For data inquiries, please contact me and Dr. Choupan by emails in the publication. 
